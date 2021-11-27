@@ -11,6 +11,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cec00059-ccd6-4098-901d-cebc06b6f433" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dz2_ayana_08_01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2_ayana_08_01/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2_ayana_08_01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2_ayana_08_01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2_ayana_08_01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2_ayana_08_01/FizzBuzz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2_ayana_08_01/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2_ayana_08_01/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2_ayana_08_01/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +28,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/dz1_ayana_08_01" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="21MZhxrN7l1yLiYzJsECH3UTcIf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/DZ2_Albina_08_01" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="SvnConfiguration">
@@ -45,7 +54,8 @@
       <option name="presentableId" value="Default" />
       <updated>1637753039727</updated>
       <workItem from="1637753041170" duration="1848000" />
-      <workItem from="1637754938364" duration="5000000" />
+      <workItem from="1637754938364" duration="8541000" />
+      <workItem from="1638035661999" duration="1316000" />
     </task>
     <servers />
   </component>
@@ -62,8 +72,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1638035736996">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1638035736996" />
     <state x="0" y="80" key="SettingsEditor" timestamp="1637761260747">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
