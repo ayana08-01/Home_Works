@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cec00059-ccd6-4098-901d-cebc06b6f433" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dz1_ayana_08_01/check.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz1_ayana_08_01/greeting.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz1_ayana_08_01/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz1_ayana_08_01/svetofor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1637753039727</updated>
       <workItem from="1637753041170" duration="1848000" />
-      <workItem from="1637754938364" duration="3035000" />
+      <workItem from="1637754938364" duration="5000000" />
     </task>
     <servers />
   </component>
