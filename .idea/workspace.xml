@@ -10,18 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cec00059-ccd6-4098-901d-cebc06b6f433" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dz2_ayana_08_01/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz2_ayana_08_01/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz2_ayana_08_01/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz2_ayana_08_01/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz2_ayana_08_01/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz2_ayana_08_01/FizzBuzz.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz2_ayana_08_01/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz2_ayana_08_01/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz2_ayana_08_01/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cec00059-ccd6-4098-901d-cebc06b6f433" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +44,7 @@
       <updated>1637753039727</updated>
       <workItem from="1637753041170" duration="1848000" />
       <workItem from="1637754938364" duration="8541000" />
-      <workItem from="1638035661999" duration="1316000" />
+      <workItem from="1638035661999" duration="1661000" />
     </task>
     <servers />
   </component>
