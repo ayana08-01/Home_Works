@@ -10,22 +10,41 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cec00059-ccd6-4098-901d-cebc06b6f433" name="Default Changelist" comment="" />
+    <list default="true" id="cec00059-ccd6-4098-901d-cebc06b6f433" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dz3_ayana_08_01/countchar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3_ayana_08_01/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3_ayana_08_01/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3_ayana_08_01/twomass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz4_ayana_08_01/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz4_ayana_08_01/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="21MZhxrN7l1yLiYzJsECH3UTcIf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -44,7 +63,7 @@
       <updated>1637753039727</updated>
       <workItem from="1637753041170" duration="1848000" />
       <workItem from="1637754938364" duration="8541000" />
-      <workItem from="1638035661999" duration="1661000" />
+      <workItem from="1638035661999" duration="4454000" />
     </task>
     <servers />
   </component>
