@@ -11,13 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cec00059-ccd6-4098-901d-cebc06b6f433" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dz3_ayana_08_01/countchar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz3_ayana_08_01/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz3_ayana_08_01/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz3_ayana_08_01/twomass.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz4_ayana_08_01/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz4_ayana_08_01/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz4_ayana_08_01/filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz4_ayana_08_01/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz4_ayana_08_01/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dz4_ayana_08_01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dz4_ayana_08_01/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dz4_ayana_08_01/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dz4_ayana_08_01/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +28,7 @@
       <list>
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -49,6 +49,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/DZ2_Albina_08_01" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="SvnConfiguration">
@@ -63,7 +64,7 @@
       <updated>1637753039727</updated>
       <workItem from="1637753041170" duration="1848000" />
       <workItem from="1637754938364" duration="8541000" />
-      <workItem from="1638035661999" duration="4454000" />
+      <workItem from="1638035661999" duration="5411000" />
     </task>
     <servers />
   </component>
